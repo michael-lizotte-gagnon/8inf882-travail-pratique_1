@@ -1,0 +1,6 @@
+[submodule "mappings-explorer"]
+	path = mappings-explorer
+	url = https://github.com/center-for-threat-informed-defense/mappings-explorer.git
+[submodule "VCDB"]
+	path = VCDB
+	url = https://github.com/vz-risk/VCDB.git
